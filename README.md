@@ -14,3 +14,4 @@ If you want to use it, please follow MSDN method (but Automatic Updates will be 
 # Credits
 Every download belongs to its authors.
 Part of the method comes from MSDN.
+Wuident.cab belongs to archive.org
